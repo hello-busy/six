@@ -21,6 +21,14 @@ or
 ./six.py
 ```
 
+## Testing
+
+Run the unit tests to verify the mathematical functions:
+
+```bash
+python3 test_six.py
+```
+
 ## What makes 6 special?
 
 6 is the first perfect number! A perfect number is a positive integer that is equal to the sum of its proper positive divisors (divisors excluding the number itself).
